@@ -1,6 +1,14 @@
-Base para crear una API REST con Django Rest Framework & Django 3.0
+# Descripción
+Estructura base para creación de API REST con Django Rest Framework, Django 3.0 y PostgreSQL
 
-Características:
+##Características:
 
 - Modelo de usuario personalizado
+- Activación de cuenta por Email
+- Recuperación de contraseña
+- Actualización de Token
+- Authorization Mixin 
+- Login
+- Logout
+
 
